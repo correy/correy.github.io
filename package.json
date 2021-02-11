@@ -1,0 +1,11 @@
+{
+  "name": "correy.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node render.js"
+  },
+  "devDependencies": {
+    "choo": "^7.1.0"
+  }
+}
